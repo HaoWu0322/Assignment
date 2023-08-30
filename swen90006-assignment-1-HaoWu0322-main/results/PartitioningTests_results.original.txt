@@ -1,0 +1,42 @@
+Testsuite: swen90006.mfa.PartitioningTests
+Tests run: 39, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.041 sec
+
+Testcase: getDataWrongDevice took 0.002 sec
+Testcase: rightIndex took 0 sec
+Testcase: getDataNoDevice took 0 sec
+Testcase: anotherTest took 0 sec
+Testcase: getDataWrongindex took 0 sec
+Testcase: EC11 took 0 sec
+Testcase: EC12 took 0 sec
+Testcase: EC13 took 0 sec
+Testcase: EC14 took 0 sec
+Testcase: EC15 took 0 sec
+Testcase: EC16 took 0 sec
+Testcase: EC17 took 0 sec
+Testcase: EC18 took 0 sec
+Testcase: EC21 took 0 sec
+Testcase: EC22 took 0 sec
+Testcase: EC23 took 0 sec
+Testcase: EC24 took 0 sec
+Testcase: EC25 took 0 sec
+Testcase: EC31 took 0 sec
+Testcase: EC35 took 0 sec
+Testcase: EC36 took 0 sec
+Testcase: EC41 took 0 sec
+Testcase: EC46 took 0.001 sec
+Testcase: EC47 took 0 sec
+Testcase: EC48 took 0 sec
+Testcase: EC49 took 0 sec
+Testcase: EC51 took 0 sec
+Testcase: aFailedTest took 0.001 sec
+Testcase: EC110 took 0 sec
+Testcase: EC111 took 0 sec
+Testcase: EC113 took 0 sec
+Testcase: EC115 took 0 sec
+Testcase: EC117 took 0 sec
+Testcase: EC120 took 0 sec
+Testcase: EC210 took 0 sec
+Testcase: EC214 took 0 sec
+Testcase: EC215 took 0 sec
+Testcase: aTest took 0 sec
+Testcase: anExceptionTest took 0 sec
